@@ -8,7 +8,7 @@
   "server": {
     "ip": "4kingdom.aternos.me",
     "port": 33303,
-    "version": "",
+    "version": "1.26.30",
     "try-creative": false
   },
   "position": {
